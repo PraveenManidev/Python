@@ -1,6 +1,6 @@
 ***Interview Preparations***
 Python - Basics
-
+PAT - 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
 References:
 YouTube:
 
